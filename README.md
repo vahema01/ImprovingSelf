@@ -1,2 +1,2 @@
-# nubprojeler
-yazılım bilgisini geliştirmek için basit projeler
+# Simple Projects
+4 nubs
